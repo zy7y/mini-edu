@@ -1,0 +1,8 @@
+body,
+html {
+  width: 100vw;
+  height: 100vh;
+  font: 14px/1.5 "PingFang SC", "微软雅黑", "Microsoft YaHei", Helvetica,
+    "Helvetica Neue", Tahoma, Arial, sans-serif;
+  color: #1c1f21;
+}
