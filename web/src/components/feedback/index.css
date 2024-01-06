@@ -1,0 +1,11 @@
+.ant-float-btn {
+  width: 60px;
+  height: 60px;
+  margin: 0 auto;
+}
+.ant-float-btn-content .ant-float-btn-icon {
+  width: 100% !important;
+}
+.m-icon {
+  font-size: 22px;
+}
